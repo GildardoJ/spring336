@@ -14,7 +14,7 @@
 <body>
   
   <header>
-    <h1> Programming Languages</h1>
+    <h1>Cascading Style Sheets (CSS)</h1>
   </header> 
   
 
@@ -29,31 +29,29 @@
   </nav>
   
   <br /><br />
-  
   <main>
-    
+   
     <figure id="me">
-      <img src="img/codelaptop.jpg" alt="Picture laptop with code on screen" />
+      <img src="img/csscode.PNG" alt="Screen grab of CSS code." />
     </figure>
     
       <div id="welcomeText" >
-        Languages 
-        <p>There are many different types of programming languages</p>
-        <p>Here we will describe a couple of them.</p>
-        <p>May this be usefull for you. </p>
+        CSS 
+        <p>Cascading Style Sheets is code that determines the style of html pages.</p>
+        <p>It takes care of the spacing of html objects on the pages. </p>
+        <p>It controls everything form text size, placement of the text to placement of images</p>
         
         <br /><br />
-        
-        <em>"With no talent and extraordinary 
-        <strong> perserverance</strong>, you can be president"</em><br />
-        - No One
+        References:
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Mozilla CSS indtroduction</a>
+
         
       </div>
       
   </main>
   
   <footer>
-    <hr />
+    <hr width="50%"/>
     2018&copy; Orozco <br/>
     <strong>Disclaimer:</strong> The information in this webpage is fictitous. <br/>
     It is used for academic purposes only. <br/>

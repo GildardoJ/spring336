@@ -2,7 +2,7 @@
 <html>
   
 <head>
-  <title>Programming languages</title>
+  <title>Python introduction</title>
   <meta charset="utf-8"> 
   <meta name="viewport" content="width=device-width">
   <link href="css/styles.css" rel="stylesheet" type="text/css" />
@@ -14,7 +14,7 @@
 <body>
   
   <header>
-    <h1> Programming Languages</h1>
+    <h1>Python</h1>
   </header> 
   
 
@@ -29,31 +29,28 @@
   </nav>
   
   <br /><br />
-  
   <main>
-    
+   
     <figure id="me">
-      <img src="img/codelaptop.jpg" alt="Picture laptop with code on screen" />
+      <img  src="img/python.png" alt="Screen grab of PHP code." />
     </figure>
     
       <div id="welcomeText" >
-        Languages 
-        <p>There are many different types of programming languages</p>
-        <p>Here we will describe a couple of them.</p>
-        <p>May this be usefull for you. </p>
-        
+        Python
+        <p>Python is an easy to learn object oriented programming language.It's much easier to learn than other languages.
+        It's an open source language.</p>
+        <p>Python is the language that open source 3D printer software was programmed with at the beggining of their developement. </p>
         <br /><br />
-        
-        <em>"With no talent and extraordinary 
-        <strong> perserverance</strong>, you can be president"</em><br />
-        - No One
+        Reference:
+            <a href="http://www.codingdojo.com/blog/python-perfect-beginners/">codingdojo.com</a>
+
         
       </div>
       
   </main>
   
   <footer>
-    <hr />
+    <hr width="50%"/>
     2018&copy; Orozco <br/>
     <strong>Disclaimer:</strong> The information in this webpage is fictitous. <br/>
     It is used for academic purposes only. <br/>

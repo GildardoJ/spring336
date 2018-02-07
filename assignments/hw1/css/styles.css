@@ -6,17 +6,26 @@ header, main, nav, footer {
     text-align: center;
     
 }
+table {
+    float: none;
+}
+
+li{
+    display: inline-block;
+}
 hr {
     color:red;
     display:block;
+    width:50%;
 }
+
 
 h1 {
     
 font-family: 'Baloo Tammudu', cursive;
 font-size: 4em;
 margin-bottom: 0px;
-color: gray;
+color: white;
 }
 
 nav a { /* link withing "nav" cointainer */

@@ -2,7 +2,7 @@
 <html>
   
 <head>
-  <title>Programming languages</title>
+  <title>PHP introduction</title>
   <meta charset="utf-8"> 
   <meta name="viewport" content="width=device-width">
   <link href="css/styles.css" rel="stylesheet" type="text/css" />
@@ -14,7 +14,7 @@
 <body>
   
   <header>
-    <h1> Programming Languages</h1>
+    <h1>PHP</h1>
   </header> 
   
 
@@ -29,31 +29,29 @@
   </nav>
   
   <br /><br />
-  
   <main>
-    
+   
     <figure id="me">
-      <img src="img/codelaptop.jpg" alt="Picture laptop with code on screen" />
+      <img src="img/phpcode.PNG" alt="Screen grab of PHP code." />
     </figure>
     
       <div id="welcomeText" >
-        Languages 
-        <p>There are many different types of programming languages</p>
-        <p>Here we will describe a couple of them.</p>
-        <p>May this be usefull for you. </p>
-        
+        Hypertext Preprocessor or PHP 
+        <p>PHP is a scripting language that runs on the browser of the client. </p>
+        <p>It allows for dynamic webpages without acces to a server. </p>
+        <p>Wich means that there is no need to contact the server in order for the page to work properly</p>
+        <p>Applications can be made wit PHP.</p>
         <br /><br />
-        
-        <em>"With no talent and extraordinary 
-        <strong> perserverance</strong>, you can be president"</em><br />
-        - No One
+        References:
+            <a href="http://www.codingdojo.com/blog/python-perfect-beginners/">PHP.net</a>
+
         
       </div>
       
   </main>
   
   <footer>
-    <hr />
+    <hr width="50%"/>
     2018&copy; Orozco <br/>
     <strong>Disclaimer:</strong> The information in this webpage is fictitous. <br/>
     It is used for academic purposes only. <br/>
