@@ -34,7 +34,7 @@
         
         <footer>
             <hr width="50%"/>
-            2017&copy; Orozco <br/>
+            2018&copy; Orozco <br/>
             <strong>Disclaimer:</strong> The information in this webpage is of my class assignments. <br/>
             Don't copy.  <br/>
          </footer>
