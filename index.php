@@ -5,6 +5,6 @@
         <title>Welcome Page!</title>
     </head>
     <body>
-        <a href="" >Welcome!</a>
+        <a href="/labs/lab1/index.html" >Lab 1!</a>
     </body>
 </html>
