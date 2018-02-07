@@ -58,6 +58,8 @@
     <strong>Disclaimer:</strong> The information in this webpage is fictitous. <br/>
     It is used for academic purposes only. <br/>
     <img src="img/icon-2488093_640.png" alt="Picture of books" />
+    <br>
+    <a href="../../index.php">Home directory</a>
   </footer>
   
   

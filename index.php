@@ -18,8 +18,8 @@
         <nav>    
             <hr width="50%" id="line"/>
             <ol>
-                <a href="/labs/lab1/index.html" >Lab 1</a>
-                <a href="/assignments/hw1/index.php" >HW 1</a>
+                <a href="labs/lab1/index.html" >Lab 1</a>
+                <a href="assignments/hw1/index.php" >HW 1</a>
                 
             </ol>
             
