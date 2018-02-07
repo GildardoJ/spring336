@@ -50,7 +50,7 @@
   </main>
   
   <footer>
-    <hr width="50%"/>
+    <hr />
     2018&copy; Orozco <br/>
     <strong>Disclaimer:</strong> The information in this webpage is fictitous. <br/>
     It is used for academic purposes only. <br/>
