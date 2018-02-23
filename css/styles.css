@@ -13,10 +13,10 @@ hr {
 
 h1 {
         
-    font-family: 'Baloo Tammudu', cursive;
+    
     font-size: 4em;
     margin-bottom: 0px;
-    color: White;
+    color: Gray;
 }
 
 nav a { /* link withing "nav" cointainer */
@@ -24,7 +24,7 @@ nav a { /* link withing "nav" cointainer */
     padding-bottom:4px;
     font-size: 1.8em;
     text-decoration: none; /* removes underline */
-    color: white;  /* by default, link are blue */
+    color: gray;  /* by default, link are blue */
 }
 nav a:hover {
     border-bottom:2px green solid;
