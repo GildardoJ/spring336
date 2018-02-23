@@ -20,19 +20,6 @@ h1 {
     color: Gray;
 }
 
-nav a { /* link withing "nav" cointainer */
-    padding: 15px;
-    padding-bottom:4px;
-    font-size: 1.8em;
-    text-decoration: none; /* removes underline */
-    color: gray;  /* by default, link are blue */
-}
-
-nav a:hover {
-    border-bottom:2px green solid;
-    font-size: 2em;
-    transition: .8s; /*transition effect*/
-}
 
 main {
     margin: auto;
