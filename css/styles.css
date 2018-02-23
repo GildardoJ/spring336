@@ -17,7 +17,7 @@ ol{
 h1 {
     font-size: 4em;
     margin-bottom: 0px;
-    color: Gray;
+    color: #1d2124;
 }
 
 nav a { /* link withing "nav" cointainer */
@@ -32,7 +32,7 @@ nav a:hover {
     border-bottom:2px green solid;
     font-size: 2em;
     text-decoration: none;
-    transition: .8s; /*transition effect*/
+    transition: .8s; /*transition effect dd*/
 }
 
 main {
