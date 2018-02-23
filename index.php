@@ -23,8 +23,8 @@
             <div id="links">
             <ol>
                 <a href="labs/lab1/index.html" >Lab 1</a>
-                <a href="/spring336/labs/lab2/index.php">Lab 2</a>
-                <a href="assignments/hw1/index.php" >HW 1</a>
+                <a href="labs/lab2/index.php">Lab 2</a>
+                <a href="assignments/hw1/index.php" >Hw 1</a>
                 
             </ol>
             </div>
