@@ -9,7 +9,9 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         
         <!-- <link href="https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text" rel="stylesheet"> -->
-        
+        <style>
+             
+        </style>
         
     </head>
     <body>
@@ -18,14 +20,14 @@
         </header>
         
         <nav>    
-            
+            <div id="links">
             <ol>
                 <a href="labs/lab1/index.html" >Lab 1</a>
                 <a href="/spring336/labs/lab2/index.php">Lab 2</a>
                 <a href="assignments/hw1/index.php" >HW 1</a>
                 
             </ol>
-            
+            </div>
         </nav>
         <main>
             <figure id="me">
@@ -43,9 +45,9 @@
 
     </body>
     <footer>
-            
-            2018&copy; Orozco <br/>
-            <strong>Disclaimer:</strong> The information in this webpage is of my class assignments. <br/>
-            Don't copy.  <br/>
+        
+        2018&copy; Orozco <br/>
+        <strong>Disclaimer:</strong> The information in this webpage is of my class assignments. <br/>
+        Don't copy.  <br/>
     </footer>
 </html>

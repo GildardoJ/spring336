@@ -1,19 +1,20 @@
 body {
-    background-color:black;
-    color:magenta;
-}
-header, main, nav, footer {
-    text-align: center;
-    
-}
-hr {
-    color:red;
-    display:block;
+    background-color:#bd2130;
+    color:  magenta; 
 }
 
-h1 {
-        
+header, main, nav, footer {
+    text-align: center;
+    color: #bd2130;
     
+}
+
+ol{
+    color: #bd2130;
+}
+
+
+h1 {
     font-size: 4em;
     margin-bottom: 0px;
     color: Gray;
@@ -26,21 +27,25 @@ nav a { /* link withing "nav" cointainer */
     text-decoration: none; /* removes underline */
     color: gray;  /* by default, link are blue */
 }
+
 nav a:hover {
     border-bottom:2px green solid;
     font-size: 2em;
     transition: .8s; /*transition effect*/
 }
+
 main {
     margin: auto;
     width:50%;
 }
-#me, #welcomeText {
+
+#me {
     float: left;
-    color:white;
+    color:purple;
     margin: auto;
    
 }
+
 #welcomeText {
     text-align: left;
    padding-left: 10px;
@@ -50,6 +55,7 @@ main {
     font-size: 1.em;
     margin:20px;
 }
+
 footer{
     clear: left;
     font-size: .9em;
