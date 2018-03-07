@@ -60,20 +60,16 @@
             
             echo "<h3>Full Array</h3>";
 
-            $deck["Diamonds"] = array("1","2","3","4","5","6","7","8","9","10","11","12","13");
-            $deck["Spades"] = array("1","2","3","4","5","6","7","8","9","10","11","12","13");
-            $deck["Clubs"] = array("1","2","3","4","5","6","7","8","9","10","11","12","13");
+            $deck["diamonds"] = array("1","2","3","4","5","6","7","8","9","10","11","12","13");
+            $deck["spades"] = array("1","2","3","4","5","6","7","8","9","10","11","12","13");
+            $deck["clubs"] = array("1","2","3","4","5","6","7","8","9","10","11","12","13");
 
             // http://php.net/manual/en/control-structures.foreach.php
-            
-            echo "<h3> Final foreach loop</h3>";
-            foreach ($deck as $key=>$value) { // $deck is the main array, with $key as it's index
-                $suit = $deck[$key];  // the $key chooses a single deck and copys it onto $suit. 
-                                        // $key is either "diamonds", "spades", "clubs"
-                
+            foreach ($deck as $key=>$value) {
+                $suit = $deck[$key];
+                echo " suit: " . $suit;
                 echo "<div>".$key."</div>";
                 echo "<ul>";
-                echo "array size of suit ". count($suit) . " ";
                 for ($i = 0; $i < count($suit); $i++) {
                     echo "<li>Card ($i): ".$suit[$i]."</li>";
                 }
