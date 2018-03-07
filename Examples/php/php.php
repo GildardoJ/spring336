@@ -67,7 +67,7 @@
             // http://php.net/manual/en/control-structures.foreach.php
             foreach ($deck as $key=>$value) {
                 $suit = $deck[$key];
-                echo " suit: " . $suit;
+                echo " suit: " $suit;
                 echo "<div>".$key."</div>";
                 echo "<ul>";
                 for ($i = 0; $i < count($suit); $i++) {
