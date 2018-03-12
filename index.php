@@ -25,6 +25,7 @@
                 <a href="labs/lab1/index.html" >Lab 1</a>
                 <a href="labs/lab2/index.php">Lab 2</a>
                 <a href="labs/lab3final/index.php">Lab 3</a>
+                <a href="labs/lab4/index.php">Lab 4 </a>
                 <a href="assignments/hw1/index.php" >Hw 1</a>
                 <a href="assignments/hw2/index.php" >HW 2</a>
                 

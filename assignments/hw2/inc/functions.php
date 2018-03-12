@@ -17,12 +17,12 @@
 
 
     
-    echo $_GET['degreeChoices'];
+             echo $_GET['degreeChoices'];
     
     
 
 
 
-?>
+        ?>
     </body>
 </html>
