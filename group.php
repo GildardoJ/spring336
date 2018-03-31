@@ -29,8 +29,7 @@
                 <a href="assignments/hw1/index.php" >Hw 1</a>
                 <a href="assignments/hw2/index.php" >HW 2</a>
                 <a href="https://bankingsystem.herokuapp.com/index.php?searchBar=&bankName=Bank+of+America&submit=Search">Group Project</a>
-                <a href="https://github.com/GildardoJ/groupProject.git">First Git for Group Project</a>
-                <a href="https://github.com/gautamtata/bankingDatabase.git">Second Git for the Group Project</a>
+                <a href=""
                 
             </ol>
             </div>

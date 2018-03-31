@@ -96,8 +96,9 @@
     <head>
         <meta charset="utf-8"/>
         <title>Lab 4 Device Search</title>
+        
         <style>
-            
+            @import url('css/styles.css');
         </style>
     </head>
     <body>
@@ -109,9 +110,9 @@
             <select name="deviceType" id="device">
                 <option value="">Select One</option>
                 <?php
-                    echo "before getDeviceTypes() ";
+                    //echo "before getDeviceTypes() ";
                     getDeviceTypes();
-                    echo "after getDeviceTypes() ";
+                    //echo "after getDeviceTypes() ";
                 
                 ?>
             </select>
@@ -120,6 +121,7 @@
             <label for="available">Available</label>
             
             <br>
+            
             Order by: 
             <input type="radio" name="orderByName" id="orderByName" value="name"/>
             <label for="order">Name</label>

@@ -6,7 +6,7 @@
     
     //echo "after getDB";
     $sql = "SELECT DISTINCT(deviceType)
-            FROM device
+            FROM 'device'
             ORDER BY deviceType";
     
     $stmt = $conn->prepare($sql);
