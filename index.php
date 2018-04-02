@@ -26,7 +26,7 @@
                 <a href="labs/lab2/index.php">Lab 2</a>
                 <a href="labs/lab3final/index.php">Lab 3</a>
                 <a href="labs/lab4/index.php">Lab 4 </a>
-                <a href="labs/lab6/index.php">Lab 4 </a>
+                <a href="labs/lab6/index.php">Lab 6 </a>
                 <a href="assignments/hw1/index.php" >Hw 1</a>
                 <a href="assignments/hw2/index.php" >HW 2</a>
                 <a href="https://bankingsystem.herokuapp.com/index.php?searchBar=&bankName=Bank+of+America&submit=Search">Group Project</a>
