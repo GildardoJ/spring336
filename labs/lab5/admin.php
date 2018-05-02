@@ -8,7 +8,7 @@ if (!isset($_SESSION['username'])) { //checks whether admin has logged in
     
 }
 
-include '../../dbConnection.php';
+include 'DbConnection.php';
 $conn = getDatabaseConnection("tcp");
 
 
@@ -76,7 +76,7 @@ function displayUsers() {
             echo "<tr><td>";
             echo $user['userId'] . " ";
             echo "</td><td>";
-            echo "<a href='userInfo.php?userId=".$user['userId']."'> ".$user['firstName']." ". $user['firstName'] ." </a> " . " ";
+            echo "<a href='userInfo.php?userId=".$user['userId']."'> ".$user['firstName']."  </a> " . " ";
             echo "</td><td>";
             echo "<a href='userInfo.php?userId=".$user['lastName']."'>". $user['lastName'] ." </a> ";
             echo "</td><td>";

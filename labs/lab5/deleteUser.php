@@ -1,6 +1,6 @@
 <?php
 
-    include("../../dbConnection.php");
+    include("DbConnection.php");
     $conn = getDatabaseConnection("tcp");
     
     $sql = "DELETE FROM tc_user

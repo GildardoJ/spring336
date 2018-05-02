@@ -2,7 +2,7 @@
 session_start();
 //print_r($_POST);
 
-include '../../dbConnection.php';
+include 'DbConnection.php';
 $conn = getDatabaseConnection("tcp");
 
 //print_r($conn);
